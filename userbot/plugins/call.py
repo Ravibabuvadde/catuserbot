@@ -38,23 +38,23 @@ async def _(event):
 
         animation_chars = [
         
-            "`Connecting To Telegram Headquarters...`",
+            "`Connecting To NASA Headquarters...`",
             "`Call Connected.`",
-            "`Telegram: Hello This is Telegram HQ. Who is this?`",
-            "`Me: Yo this is` @mrconfused ,`Please Connect me to my lil bro,Shivamani `",
+            "`NASA HQ: Hello This is NASA HQ. Who is this?`",
+            "`Me: Yo this is` @its_me_einstein ,`Please Connect me to my lil bro,Newton `",
             "`User Authorised.`",
-            "`Calling Shivamani `  `At +919848022338`",
+            "`Calling Newton `  `At +919876543210`",
             "`Private  Call Connected...`",
-            "`Me: Hello Sir, Please Ban This Telegram Account.`",    
-            "`Shivamani : May I Know Who Is This?`",
-            "`Me: Yo Brah, I Am` @mrconfsed the cat ",
-            "`Shivamani : OMG!!! Long time no see, Wassup cat...\nI'll Make Sure That Guy Account Will Get Blocked Within 24Hrs.`",
+            "`Me: Hello Broo, Please Send ms Gravity Equation .`",    
+            "`Newton : May I Know Who Is This?`",
+            "`Me: Yo Brah, I Am` @its_me_einstein the Scientist ",
+            "`Newton : OMG!!! Long time no see, Wassup einstei ...\nI'll Make Sure The Gravity equation will be sent in 5Mins.`",
             "`Me: Thanks, See You Later Brah.`",
-            "`Shivamani : Please Don't Thank Brah, Telegram Is Our's. Just Gimme A Call When You Become Free.`",
-            "`Me: Is There Any Issue/Emergency???`",
-            "`Shivamani : Yes Sur, There Is A Bug In Telegram v69.6.9.\nI Am Not Able To Fix It. If Possible, Please Help Fix The Bug.`",
-            "`Me: Send Me The App On My Telegram Account, I Will Fix The Bug & Send You.`",
-            "`Shivamani : Sure Sur \nTC Bye Bye :)`",
+            "`Newton : Please Don't Thank Brah, HQ Is Our's. Just Gimme A Call When You Become Free.`",
+            "`Me: Is There Any Issue in Your New Teleportation Equation????`",
+            "`Newton : Yes Buddy There is a Small Issue in my Equation \nI Am Not Able To Fix It. If Possible, Please Help Fix The issue.`",
+            "`Me: Send Me The Equation On My Telegram Account, I Will Fix The issue & Send You.`",
+            "`Newton : Sure Bro \nTC Bye Bye :)`",
             "`Private Call Disconnected.`"
         ]
 
